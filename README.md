@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Udit Jain
 - 👀 I’m interested in the field of cyber security
 - 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me -
-     Email: uditplayz10@gmail.com
+- 📫 How to reach me - <br>
+     Email: uditplayz10@gmail.com <br>
      Instagram: @udittt.j
 
 <!---
