@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Udit Jain
-- 👀 I’m interested in the field of CyberSec and Data Engineering.
-- 🔫 My Arsenal - Bash, C, Java & Python.
+- 👀 I’m interested in the field of AI/ML and Data Engineering.
+- 🔫 My Arsenal - Bash, C/C++, Java & Python.
 - 📫 How to reach me - <br>
-     Email: uditplayz10@gmail.com <br>
+     Email: jain.udit0000@gmail.com <br>
      Instagram: @udittt.j
 
 <!---
