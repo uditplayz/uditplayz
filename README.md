@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Udit Jain
-- 👀 I’m interested in the field of AI/ML and Data Engineering.
-- 🔫 My Arsenal - Bash, C/C++, Java & Python.
+- 👀 I’m interested in the field of AI/ML and Data Engineering, Robotics, Gaming.
+- 🔫 My Arsenal - Bash, C/C++, JavaScript & Python.
 - 📫 How to reach me - <br>
      Email: jain.udit0000@gmail.com <br>
      Instagram: @udittt.j
